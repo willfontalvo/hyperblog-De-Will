@@ -4,3 +4,9 @@ body
     text-align: center;
     font-family: "Arial";
 }
+
+#cabecera{
+    color: blue;
+    text-align: left;
+    font-family: monospace;
+}
