@@ -15,3 +15,4 @@ hoy hablaremos de la vida y obra maestra de Wilberto Durán Fontalvo
 
 excelenete esto de aprender a utilizar stash
 
+poniendo en practica stash y cherrypick
